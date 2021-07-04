@@ -1,5 +1,5 @@
 
-'pymongo[srv]'
+pymongo[srv]
 gunicorn
 python-dotenv
 
