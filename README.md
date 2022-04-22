@@ -2,4 +2,4 @@
   
 # Microblog
 
-Created a simple blog, using Flask. 
+Created a simple blog, using Flask and MongoDB
